@@ -1,0 +1,19 @@
+{
+  "name": "polyphorm-api",
+  "version": "1.0.0",
+  "description": "Polyphorm API service",
+  "repository": {
+    "type": "git",
+    "url": "git+https://doojin@github.com/Polyphorm/PolyphormAPI.git"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Dmitry Papka",
+    "email": "dmitry.papka@gmail.com"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Polyphorm/PolyphormAPI/issues"
+  },
+  "homepage": "https://github.com/Polyphorm/PolyphormAPI#readme"
+}
